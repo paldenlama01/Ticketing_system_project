@@ -5,6 +5,8 @@ You can use the same `tickets.db` as the CLI version.
 
 ## Install & Run
 ```bash
+# Run the ticketing system using Anaconda PowerShell Prompt
+
 # (Optional) activate your Anaconda/conda environment
 # conda activate myenv
 
@@ -12,7 +14,7 @@ You can use the same `tickets.db` as the CLI version.
 pip install streamlit pandas
 
 # Run the app (from the folder containing this file)
-ticketing_app.py
+ ticketing_app.py and Use cmnd : streamlit run ticketing_app.py
 ```
 
 ## Features
