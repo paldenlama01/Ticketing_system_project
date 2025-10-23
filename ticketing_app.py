@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# streamlit_ticketing_app.py
-# Run with: streamlit run streamlit_ticketing_app.py
+# ticketing_app.py
+# Run with: streamlit run ticketing_app.py
 from __future__ import annotations
 
 import sqlite3
